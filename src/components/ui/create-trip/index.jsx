@@ -122,7 +122,7 @@ function CreateTrip() {
         <div className='mt-10'>
           <h2 className='text-xl my-3 font-bold'>What is Your Budget?</h2>
         </div>
-        <div className='grid grid-cols-3 gap-5 mt-5'>
+        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4'>
           {budgetList.map(item => (
             <div
               onClick={() => handleInputChange('Budget', item.title)}
@@ -137,7 +137,7 @@ function CreateTrip() {
         <div className='mt-10'>
           <h2 className='text-xl my-3 font-bold'>Who do you plan on traveling with on your next adventure?</h2>
         </div>
-        <div className='grid grid-cols-3 gap-5 mt-5'>
+        <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4'>
           {travelList.map(item => (
             <div
               onClick={() => handleInputChange('travel', item.title)}
