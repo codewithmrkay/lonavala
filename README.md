@@ -14,11 +14,11 @@ A modern trip planning app built with **React.js**, **FireBase**, and **Gemini A
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Contact](#contact)
+- 🌐[Live Demo](#live-demo)
+- ✨[Features](#features)
+- 🛠[Tech Stack](#tech-stack)
+- 📥[Installation](#installation)
+- 📞[Contact](#contact)
 
 ## 🌐Live Demo
 
